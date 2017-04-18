@@ -1,0 +1,14 @@
+{
+  "name": "node-webserver",
+  "version": "1.0.0",
+  "description": "first web server colin+gabe",
+  "main": "html-page-fs-reader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gabe + colin",
+  "license": "ISC",
+  "dependencies": {
+    "asciify": "^1.3.5"
+  }
+}
